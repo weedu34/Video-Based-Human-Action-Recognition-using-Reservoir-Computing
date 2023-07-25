@@ -6,15 +6,16 @@ In the last few years, human action recognition has been under great research in
 
 Reservoir Computing (RC) is a human brain-inspired machine learning method that is adaptable, has short training durations, and makes use of dynamical systems' inherent information-processing capabilities. The basic training method used in reservoir computing, which only includes training the output layer, avoids problems that are common when training recurrent neural networks, such as training on the very large data set. As a result, reservoir computing is particularly well suited to hardware implementation. Optical implementations are of special relevance in terms of improving calculation speeds and power consumption.
 
-
-
+- **Methodology and Evaluation**: All the methods and workflow to carried out in this project are explained in this link - [blog](https://github.com/weedu34/HAR/wiki/Methodology)
+- **Results and Discussion**: Results achieved through our work are explaind and disscued here - [blog](https://github.com/weedu34/HAR/wiki/Results-&-Future-Work)
+- **References**: All references throughout the project - [blog](https://github.com/weedu34/HAR/wiki/References)
 **Group Members:**
 
 
-- Shahroz Ahmad - Matriculation Number: 63698 - Email: shahroz.17@live.com
+- Shahroz Ahmad - Email: shahroz.17@live.com
 
 
-- Muhammad Waleed - Matriculation Number: 63714 - Email: weedu34@gmail.com
+- Muhammad Waleed - Email: weedu34@gmail.com
 
 
 
