@@ -23,7 +23,7 @@ Reservoir Computing (RC) is a human brain-inspired machine learning method that 
 - M.Sc Nikolay Lukin
 
 
-This project is based on the research study made by Antonik, Piotr which is published in [Research Papaer](https://arxiv.org/abs/2004.02545)
+This project is based on the research study made by Piotr Antonik, Nicolas Marsal, Daniel Brunner, Damien Rontani which is published in [Research Papaer](https://arxiv.org/abs/2004.02545)
 
 
 
