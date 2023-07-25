@@ -11,14 +11,11 @@ Reservoir Computing (RC) is a human brain-inspired machine learning method that 
 **Group Members:**
 
 
-- Shahroz Ahmad - Matriculation Number: 63698 - Email: shahroz.ahmad@tu-ilmenau.de
+- Shahroz Ahmad - Matriculation Number: 63698 - Email: shahroz.17@live.com
 
 
-- Muhammad Waleed - Matriculation Number: 63714 - Email: muhammad.waleed@tu-ilmenau.de
+- Muhammad Waleed - Matriculation Number: 63714 - Email: weedu34@gmail.com
 
-**Supervised by:**
-
-M.Sc. Nikolay Lukin Email: nikolay.lukin@tu-ilmenau.de
 
 
 
