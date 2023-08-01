@@ -14,7 +14,7 @@ Reservoir Computing (RC) is a human brain-inspired machine learning method that 
 # Group Members:
 
 
-- Shahroz Ahmad
+- [Shahroz Ahmad](https://github.com/shahroz17)
 
 
 - Muhammad Waleed
